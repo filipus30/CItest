@@ -4,7 +4,8 @@ namespace SimpleProgramSimpleLife
 {
     public class Program
     {
-        int a = 2;
+        int a = 1
+            ;
         int b = 3;
 
         static void Main(string[] args)
